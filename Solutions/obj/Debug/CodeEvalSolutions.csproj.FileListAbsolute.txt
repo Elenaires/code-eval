@@ -1,0 +1,6 @@
+C:\Source\CodeEval\Solutions\Solutions\bin\Debug\Solutions.exe.config
+C:\Source\CodeEval\Solutions\Solutions\bin\Debug\Solutions.exe
+C:\Source\CodeEval\Solutions\Solutions\bin\Debug\Solutions.pdb
+C:\Source\CodeEval\Solutions\Solutions\obj\Debug\Solutions.exe
+C:\Source\CodeEval\Solutions\Solutions\obj\Debug\Solutions.pdb
+C:\Source\CodeEval\Solutions\Solutions\obj\Debug\CodeEvalSolutions.csprojResolveAssemblyReference.cache
